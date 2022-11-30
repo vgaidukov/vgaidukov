@@ -1,4 +1,4 @@
-## Привет всем 👋, меня зовут Вадим
+## Привет всем 👋 меня зовут Вадим
 
 <img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="400" height="280"/> 
 
