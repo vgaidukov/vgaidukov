@@ -10,7 +10,7 @@
 - 📫 Связаться со мной: vgaidukov@gmail.com
 - ⚡ Интересный факт: увлекаюсь велоспортом 🚵
 
-##### Online Presence
+##### Социальные сети
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgaidukov)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='twitter' height='40'>](https://career.habr.com/vadim_gdkv)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='40'>](https://www.instagram.com/vadim_gdkv)   
@@ -18,8 +18,8 @@
 ---
 <div>
   <a href="https://github.com/vivekweb2013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vgaidukov&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgaidukov&layout=compact&langs_count=6"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vgaidukov&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgaidukov&layout=compact&langs_count=6"/>
 </div>
   
   #### Мой стэк
