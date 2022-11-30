@@ -1,6 +1,6 @@
 ## Привет всем 👋, меня зовут Вадим
 
-<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="450" height="300"/> 
+<img align="right" src="https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif" alt="Hola Coders" width="430" height="280"/> 
 
 - 👨🏻‍💻 Я начинающий fontend разработчик
 - 🎓 Прошел обучение в Яндекс.Практикуме
@@ -18,8 +18,8 @@
 ---
 <div>
   <a href="https://github.com/vivekweb2013">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vgaidukov&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgaidukov&layout=compact&langs_count=6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vgaidukov&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgaidukov&layout=compact&langs_count=6"/>
 </div>
   
   #### Мой стэк
