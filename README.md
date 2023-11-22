@@ -2,17 +2,14 @@
 
 <img align="right" src="https://github.com/vgaidukov/vgaidukov/blob/main/developer.gif" alt="Hola Coders" width="400" height="280"/> 
 
-- 👨🏻‍💻 Я начинающий fontend разработчик
-- 🎓 Прошел обучение в Яндекс.Практикуме
-- 🌱 Сейчас изучаю **TypeScript, Vue.js, Ionic**
-- ⏭ Мой следующий проект - [Split APP](https://github.com/vgaidukov/splitapp) & [Voter](https://github.com/vgaidukov/voter)
-- 🔎 Активно ищу работу в команде
+- 👨🏻‍💻 Я fontend разработчик
+- 🌱 Сейчас изучаю **TypeScript, Vue.js**
+- ⏭ Мой следующий проект - Чат-бот с интеграцией с Notion и Кинопоиском для быстрых заметок. 
 - 📫 Связаться со мной: vgaidukov@gmail.com
 - ⚡ Интересный факт: увлекаюсь велоспортом 🚵
 
 #### Социальные сети
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgaidukov)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg' alt='twitter' height='40'>](https://career.habr.com/vadim_gdkv)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='40'>](https://www.instagram.com/vadim_gdkv)   
 
 ---
