@@ -3,14 +3,13 @@
 <img align="right" src="https://github.com/vgaidukov/vgaidukov/blob/main/developer.gif" alt="Hola Coders" width="400" height="280"/> 
 
 - 👨🏻‍💻 Я системный аналитик и fontend разработчик
-- 🌱 Сейчас погружаюсь в **системный анализ**
+- 🌱 Сейчас погружаюсь в **брокеры сообщений**
 - ⏭ Мой следующий проект - Чат-бот с интеграцией с Notion и Кинопоиском для быстрых заметок. 
 - 📫 Связаться со мной: vgaidukov@gmail.com
 - ⚡ Интересный факт: увлекаюсь велоспортом 🚵
 
 #### Социальные сети
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgaidukov)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='40'>](https://www.instagram.com/vadim_gdkv)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vgaidukov)   
 
 ---
 <div>
